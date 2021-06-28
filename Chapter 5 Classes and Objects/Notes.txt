@@ -1,0 +1,3 @@
+1. By default, all the variable and function are considered as private.
+2. C++ standards are strict, if we consider types. char * and string are different in c++ 
+3. :: symbol is used for indicating the variable or function belongs to that class.
